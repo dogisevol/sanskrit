@@ -20,7 +20,7 @@ Sanskrit Ruppel::Chapter3;तत्र;tatra;there;
 Sanskrit Ruppel::Chapter3;पुनर्;punar;again;
 Sanskrit Ruppel::Chapter3;किम्;kim;what? why?; also used at beginning of sentence to indicate a yes/no question;
 Sanskrit Ruppel::Chapter3;अपि;api;at beginning of sentence: marks sentence as a yes/ no question;
-Sanskrit Ruppel::Chapter4;√भृ;bhṛ<br>(I भरति bharati);to bear, carry;
+Sanskrit Ruppel::Chapter4;√भृ; (I भरति);to bear, carry;
 Sanskrit Ruppel::Chapter4;√स्मृ;smṛ (I स्मरति smarati);to remember;
 Sanskrit Ruppel::Chapter4;√हृ hṛ;(I हरति harati);to take;
 Sanskrit Ruppel::Chapter4;√बुध्;budh (I बोधति bodhati);to wake up; to understand;
@@ -240,6 +240,283 @@ Sanskrit Ruppel::Chapter14;क्रोध-;(m.) – ‘anger’
 Sanskrit Ruppel::Chapter14;स्नेह -;(m.) – ‘love’
 Sanskrit Ruppel::Chapter14;अञ्जलिः;(m.) – ‘folded hands’ (gesture of respect) (Nom Sg)
 Sanskrit Ruppel::Chapter14;मतिः; (f.) – ‘mind, sense’ (Nom Sg)
+Sanskrit Ruppel::Chapter15;मरुत्;(m.) wind
+Sanskrit Ruppel::Chapter15;विद्युत्;lightning (f.)
+Sanskrit Ruppel::Chapter15;जगत्; (n.) world
+Sanskrit Ruppel::Chapter15;आपद्; (f.) misfortune, misfortune
+Sanskrit Ruppel::Chapter15;हृद्; (n.)heart
+Sanskrit Ruppel::Chapter15;हृदय; (n.)heart
+Sanskrit Ruppel::Chapter15;सुहृद्;(Adj) ‘good-hearted, kind’, (m.) ‘friend’
+Sanskrit Ruppel::Chapter15;वाच्; (f.)‘voice’ (–› वचन-)
+Sanskrit Ruppel::Chapter15;उदक; (n.)water
+Sanskrit Ruppel::Chapter15;अन्न; (n.)food
+Sanskrit Ruppel::Chapter15;गण; (m.)‘group (of any kind): flock, crowd, troop’
+Sanskrit Ruppel::Chapter15;क्षुद्र; (Adj)mean, vile
+Sanskrit Ruppel::Chapter15;-कृत्-, -कर-;(ifc) ‘making, causing’
+Sanskrit Ruppel::Chapter15;-विद्;(ifc) ‘knowing, one who knows’
+Sanskrit Ruppel::Chapter15;वेदविद्; (Adj)‘knowing/knowledgeable in the Vedas’
+Sanskrit Ruppel::Chapter15;-ग-; (ifc) ‘going, one who goes’ (–› गम्)
+Sanskrit Ruppel::Chapter15;यदा… तदा; (Indc);‘when… then’
+Sanskrit Ruppel::Chapter16;आश्रम-; (m.)‘hermitage’ (–› ashram)
+Sanskrit Ruppel::Chapter16;चाप-; (m.)‘bow’ (i.e. the weapon)
+Sanskrit Ruppel::Chapter16;तीर-; (n.)‘bank, shore’
+Sanskrit Ruppel::Chapter16;देश-, प्रदेश-; (m.)‘place, region’
+Sanskrit Ruppel::Chapter16;केश-; (m.)‘hair; mane’
+Sanskrit Ruppel::Chapter16;अल्प-, स्वल्प-; (Adj)small
+Sanskrit Ruppel::Chapter16;देह-; (m., n.)body
+Sanskrit Ruppel::Chapter16;रत्न- (n.);jewel; gift
+Sanskrit Ruppel::Chapter16;समीप-;(Adj) ‘near’; (n.) ‘vicinity’
+Sanskrit Ruppel::Chapter16;समीपे;‘in the vicinity of, near’ (+ Gen)
+Sanskrit Ruppel::Chapter16;समुद्र-; (m.)‘(all the water together) ocean’
+Sanskrit Ruppel::Chapter16;नित्यम्; (Indc)‘always, eternally’
+Sanskrit Ruppel::Chapter16;दिश्-; (f.)‘direction; region’ (sandhi: ś before vowels, k in final position and before s, g before voiced consonants)
+Sanskrit Ruppel::Chapter17;√स्मि;(I स्मयति); ‘to smile’
+Sanskrit Ruppel::Chapter17;√नन्द्;(I नन्दति);‘to be happy, rejoice in’ (+ Instr)
+Sanskrit Ruppel::Chapter17;√क्रुध्;(IV क्रुध्यति);‘to be angry’
+Sanskrit Ruppel::Chapter17;√कुप्;(IV कुप्यति);‘to be angry’
+Sanskrit Ruppel::Chapter17;√मृ;(VI म्रियति);‘to die’
+Sanskrit Ruppel::Chapter17;√शुभ्;(I शोभति, VI शुम्भति);‘to decorate’
+Sanskrit Ruppel::Chapter17;√कम्;(X कामयति);‘to love’
+Sanskrit Ruppel::Chapter17;शोक-; (m.)‘grief ’
+Sanskrit Ruppel::Chapter17;स्नेह -; (m.)‘love, affection’
+Sanskrit Ruppel::Chapter17;मुख्य-; (Adj)‘main, foremost’ (–› मुख-)
+Sanskrit Ruppel::Chapter17;वाक्य-; (n.)‘speech; word’ (–› वचन-, वाच्-)
+Sanskrit Ruppel::Chapter17;कोप-; (m.)‘anger’
+Sanskrit Ruppel::Chapter17;काम-; (m.)‘love, desire, wish’
+Sanskrit Ruppel::Chapter17;जीवित-; (n.)‘life’
+Sanskrit Ruppel::Chapter17;दर्शन-; (n.)‘sight, view’
+Sanskrit Ruppel::Chapter17;मरण-; (n.)‘death’
+Sanskrit Ruppel::Chapter17;था-; (Adj)‘mortal’; (m.) ‘man’
+Sanskrit Ruppel::Chapter17;पौर-; (m.)‘citizen, city-dweller’ (–› पुर-)
+Sanskrit Ruppel::Chapter17;तत्त्व-; (n.)‘truth’ (lit. ‘that-ness’)
+Sanskrit Ruppel::Chapter17;शोभन-; (Adj)‘beautiful, magnificent’
+Sanskrit Ruppel::Chapter17;क्रोध-; (m.)‘anger’
+Sanskrit Ruppel::Chapter17;प्रमुखतः; (Indc)‘facing, in front of ’ (+ Gen)
+Sanskrit Ruppel::Chapter17;तत्त्वतः; (Indc)‘truly, in truth’
+Sanskrit Ruppel::Chapter18;√इ;(II एति);‘to go’
+Sanskrit Ruppel::Chapter18;√विद्;(II वेत्ति);‘to know, recognise’ (–› वेद-)
+Sanskrit Ruppel::Chapter18;√द्विष्;(II द्वेष्टि);‘to hate’
+Sanskrit Ruppel::Chapter18;√भी;(III बिभेति);‘to fear, be afraid of (+ Abl)’
+Sanskrit Ruppel::Chapter18;√हु;(III जुहोति);‘to pour; to sacrifice to (+ Acc)’
+Sanskrit Ruppel::Chapter18;√आप्;(V आप्नोति);‘to get, reach’
+Sanskrit Ruppel::Chapter18;प्र-√आप्;(V प्राप्नोति);‘to get, reach’
+Sanskrit Ruppel::Chapter18;√वृ;(V वृणोति);‘to cover, surround, restrain’
+Sanskrit Ruppel::Chapter18;√शक्;(V शक्नोति);‘to be strong; to be able to (+ Inf)’
+Sanskrit Ruppel::Chapter18;√भिद्;(VII भिनत्ति);‘to split’
+Sanskrit Ruppel::Chapter18;√भुज्;(VII भुनक्ति);‘to enjoy; to eat’
+Sanskrit Ruppel::Chapter18;√रुध्;(VII रुणद्धि);‘to obstruct’
+Sanskrit Ruppel::Chapter18;√तन्;(VIII तनोति);‘to stretch’
+Sanskrit Ruppel::Chapter18;√वृ;(IX वृणाति);‘to choose’
+Sanskrit Ruppel::Chapter18;√पू;(IX पुनाति);‘to purify, cleanse’ (note: pu-, not pū-!)
+Sanskrit Ruppel::Chapter18;√बध्/बन्ध्;(IX बध्नाति);‘to bind, tie’
+Sanskrit Ruppel::Chapter19;√अस्;(II अस्ति);‘to be’
+Sanskrit Ruppel::Chapter19;√या;(II याति);‘to go’
+Sanskrit Ruppel::Chapter19;√स्वप्;(II स्वपिति, I स्वपति);‘to sleep’
+Sanskrit Ruppel::Chapter19;√हन्;(II हन्ति);‘to kill’
+Sanskrit Ruppel::Chapter19;√ब्रू;(II ब्रवीति);‘to speak’
+Sanskrit Ruppel::Chapter19;पुनर् √ब्रू;‘to reply, answer’
+Sanskrit Ruppel::Chapter19;√वच्;(II वक्ति);‘to speak, say’ (–› वचन- etc.)
+Sanskrit Ruppel::Chapter19;√स्तु;(II स्तौति);‘to praise’
+Sanskrit Ruppel::Chapter19;√दा;(III ददाति);‘to give’(‘to’: + Dat, Gen or Loc)
+Sanskrit Ruppel::Chapter19;√धा;(III दधाति);‘to put, place’
+Sanskrit Ruppel::Chapter19;√श्रु;(V शृणोति);‘to listen, hear’
+Sanskrit Ruppel::Chapter19;√छिद्;(VII छिनत्ति);‘to cut, cut off ’, ta-Ptc छिन्न-
+Sanskrit Ruppel::Chapter19;√युज्;(VII युनक्ति);‘to yoke, join, link,’ (–› योग-)
+Sanskrit Ruppel::Chapter19;√कृ;(VIII करोति);‘to do, make’
+Sanskrit Ruppel::Chapter19;अलम्-√कृ;‘to decorate, adorn’
+Sanskrit Ruppel::Chapter19;√ग्रह्;(IX गृह्णाति);‘to take, seize’
+Sanskrit Ruppel::Chapter19;√ज्ञा;(IX जानाति);‘to know, recognise’ (–› ज्ञान- ‘knowledge’)
+Sanskrit Ruppel::Chapter19;शरीर- (n.);‘body’
+Sanskrit Ruppel::Chapter19;मम (Pron);‘my’ (Gen Sg)
+Sanskrit Ruppel::Chapter20;√भाष्;(I भाषते);‘to speak, say’
+Sanskrit Ruppel::Chapter20;√लभ्;(I लभते);‘to get, obtain, take’
+Sanskrit Ruppel::Chapter20;√विप्;(I वेपते);‘to tremble’
+Sanskrit Ruppel::Chapter20;√ईक्ष्;(I ईक्षते);‘to look at, see’
+Sanskrit Ruppel::Chapter20;√वृत्;(I वर्तते);‘to turn; go on, proceed, advance; to be’
+Sanskrit Ruppel::Chapter20;√द्युत्;(I द्योतते);(dyut) ‘to shine’ (–› विद्युत-् ‘lightning’ (15))
+Sanskrit Ruppel::Chapter20;√वह्;(I वहति);transitive: ‘to carry, draw’; intransitive: ‘to travel, drive(in a chariot)’
+Sanskrit Ruppel::Chapter20;√शुभ्;(I शोभति, -ते, VI शुम्भति);‘to decorate’; middle: ‘to make oneself beautiful; be beautiful’
+Sanskrit Ruppel::Chapter20;√आस्;(II आस्ते);‘to sit, dwell, reside’
+Sanskrit Ruppel::Chapter20;√मृ;(IV म्रियते, -ति);‘to die’
+Sanskrit Ruppel::Chapter20;√मन्;(IV मन्यते);‘to think, consider’
+Sanskrit Ruppel::Chapter20;√युध्;(IV युध्यते);‘to fight’
+Sanskrit Ruppel::Chapter20;√जन;(IV जन्यते);transitive: ‘to give birth’; intransitive: ‘to be born’
+Sanskrit Ruppel::Chapter20;√लक्ष्;(X लक्षयति);‘to notice’
+Sanskrit Ruppel::Chapter20;यत्न-, प्रयत्न- (m.);‘effort, attempt, exertion’
+Sanskrit Ruppel::Chapter20;महाराज- (m.);‘great king’
+Sanskrit Ruppel::Chapter20;श्वः;(Indc)‘tomorrow’
+Sanskrit Ruppel::Chapter20;कदा;(Indc)‘when?’
+Sanskrit Ruppel::Chapter20;-ज-;(ifc) ‘born, one who is born (of)’
+Sanskrit Ruppel::Chapter22;एषः/एतद् (Pron);‘this; that’
+Sanskrit Ruppel::Chapter22;य- (Pron);‘who, what, which’ (relative pronoun –› Chapter 23 for details)
+Sanskrit Ruppel::Chapter22;क- (Pron);question pronoun: ‘who? what?’
+Sanskrit Ruppel::Chapter22;अन्य- (Pron);‘(an)other’
+Sanskrit Ruppel::Chapter22;सर्व- (Pron Adj);‘all, every, entire; (with negation) any’
+Sanskrit Ruppel::Chapter22;विश्व- (Pron Adj);all, every, entire; (with negation) any’
+Sanskrit Ruppel::Chapter22;स्व- (Pron Adj);‘one’s own’ (my own, your own etc.)
+Sanskrit Ruppel::Chapter22;स्वक- (Adj);‘one’s own’ (my own, your own, etc.) (regular declension)
+Sanskrit Ruppel::Chapter22;एक- (Pron Adj);‘one, single; only’; Pl: ‘ones, some’
+Sanskrit Ruppel::Chapter22;पर- (Pron Adj);far; other; hostile’ (see note above)
+Sanskrit Ruppel::Chapter22;पूर्व- (Pron Adj);‘prior, earlier; first’
+Sanskrit Ruppel::Chapter22;कतर- (Pron or Pron Adj);‘which (of two)?’
+Sanskrit Ruppel::Chapter22;उत्तम- (Pron or Pron Adj);‘highest’ (lit. ‘up-most’, *ud-tama-)
+Sanskrit Ruppel::Chapter22;उत्तर- (Pron or Pron Adj);‘later; superior, higher’ (*ud-tara-)
+Sanskrit Ruppel::Chapter23;अतः; ‘from this (place/time/reason)’
+Sanskrit Ruppel::Chapter23;ततः; ‘from that (…)’; ‘then, therefore’
+Sanskrit Ruppel::Chapter23;यतः; ‘from which (…), because’
+Sanskrit Ruppel::Chapter23;कुतः;‘from which (…)? why?’
+Sanskrit Ruppel::Chapter23;इतः;‘from this (…), now’
+Sanskrit Ruppel::Chapter23;अत्र;‘here; now’
+Sanskrit Ruppel::Chapter23;तत्र;‘there; then’
+Sanskrit Ruppel::Chapter23;यत्र;‘(in which), where, when’ (relative)
+Sanskrit Ruppel::Chapter23;कुत्र;‘where?’
+Sanskrit Ruppel::Chapter23;तथा;‘so, in that way’
+Sanskrit Ruppel::Chapter23;यथा;‘as, in which way’ (relative)
+Sanskrit Ruppel::Chapter23;अथ;‘then, now’
+Sanskrit Ruppel::Chapter23;तदा;‘then, at that time’
+Sanskrit Ruppel::Chapter23;यदा;‘when’ (relative)
+Sanskrit Ruppel::Chapter23;कदा;‘when?’
+Sanskrit Ruppel::Chapter23;एकदा;‘once, at one time’
+Sanskrit Ruppel::Chapter23;यदि;‘if ’
+Sanskrit Ruppel::Chapter23;तर्हि;then
+Sanskrit Ruppel::Chapter23;चित्, अपि, चन;(postposed) turn question pronoun into indefinite
+Sanskrit Ruppel::Chapter23;यो यः;(repeated case form of य-): ‘whoever’
+Sanskrit Ruppel::Chapter23;यतः… ततः;‘where… there
+Sanskrit Ruppel::Chapter23;यत्र… तत्र;because… (thus)
+Sanskrit Ruppel::Chapter23;यदा… तदा;when… (then)
+Sanskrit Ruppel::Chapter23;यावत्… तावत्;as long as… so long
+Sanskrit Ruppel::Chapter23;यथा… तथा;just as/in which way… (so/in that way)
+Sanskrit Ruppel::Chapter23;यदि… तर्हि‘;if… then
+Sanskrit Ruppel::Chapter24;तप् (I तपति, -ते; IV तप्यति, -ते);‘to heat; be hot, suffer; practise religious austerities’
+Sanskrit Ruppel::Chapter24;ओजस्- (n.);‘power, strength’
+Sanskrit Ruppel::Chapter24;चक्षुस्- (n.);eye
+Sanskrit Ruppel::Chapter24;अचक्षुस्- (Adj);‘blind’ (‘eyeless’)
+Sanskrit Ruppel::Chapter24;तेजस्- (n.);‘splendour; majesty; power’
+Sanskrit Ruppel::Chapter24;मनस्- (n.);‘mind’ (–› √मन्)
+Sanskrit Ruppel::Chapter24;सुमनस्- (Adj);‘good-hearted, benevolent’
+Sanskrit Ruppel::Chapter24;तपस्- (n.);‘heat’; figuratively: ‘spiritual suffering, asceticism’ (–› √तप्)
+Sanskrit Ruppel::Chapter24;शिरस्- (n.);‘head, top, peak’
+Sanskrit Ruppel::Chapter24;यशस्- (n.);‘glory, fame’
+Sanskrit Ruppel::Chapter24;वचस्- (n.);‘speech, word’ (–› √वच्)
+Sanskrit Ruppel::Chapter24;रजस्- (n.);‘mist, dust; passion (which clouds the senses)’
+Sanskrit Ruppel::Chapter24;चेतस्- (n.);‘intellect, thought’ (–› √चित्/चिन्त्)
+Sanskrit Ruppel::Chapter24;रहस्- (n.);‘solitude’; Acc used as an adverb: ‘secretly’
+Sanskrit Ruppel::Chapter24;नमस्- (n.);‘respect; adoration; obeisance’ (–› √नम्)
+Sanskrit Ruppel::Chapter24;नमस् √कृ;‘to pay homage to; to greet someone’
+Sanskrit Ruppel::Chapter24;उषस्- (f.);‘dawn’
+Sanskrit Ruppel::Chapter24;वपुस्-;(Adj) ‘beautiful’; (n.) ‘form; beauty’
+Sanskrit Ruppel::Chapter24;हविस्- (n.);‘oblation, burnt offering’
+Sanskrit Ruppel::Chapter24;पर्वत- (m.);‘mountain’
+Sanskrit Ruppel::Chapter24;गज- (m.);‘elephant’
+Sanskrit Ruppel::Chapter24;परंतप- (m.);‘foe-burner, killer of the enemy’ (name/epithet of Arjuna and other epic heroes)
+Sanskrit Ruppel::Chapter24;अलम् (Indc);‘enough of; no more…’ (+ Instr)
+Sanskrit Ruppel::Chapter25;धीमत्- (Adj);‘having thought’ –› ‘wise’
+Sanskrit Ruppel::Chapter25;गुणवत्- (Adj);‘having (good) qualities, noble’
+Sanskrit Ruppel::Chapter25;भगवत्- (Adj);‘fortunate; blessed’
+Sanskrit Ruppel::Chapter25;रूपवत्- (Adj);‘shapely, beautiful’
+Sanskrit Ruppel::Chapter25;हिमवत्-;(Adj) ‘snowy, frosty’; (m.) ‘the Himalayas’
+Sanskrit Ruppel::Chapter25;हिम- (m.);‘snow’
+Sanskrit Ruppel::Chapter25;महत्- (Adj);‘great’ (महा- in compounds)
+Sanskrit Ruppel::Chapter25;क्षय- (m.);‘loss, destruction’; ‘dwelling’
+Sanskrit Ruppel::Chapter25;अन्योन्य- (Adj);‘one another, mutual’ (often used adverbially)
+Sanskrit Ruppel::Chapter25;-ज्ञ-;(ifc) ‘one who knows; knowing’
+Sanskrit Ruppel::Chapter25;√निन्द्;(I निन्दति, -ते);‘to blame’
+Sanskrit Ruppel::Chapter25;√क्रम्;(I क्रमति, -ते; क्रामति, -ते);‘to walk, stride’
+Sanskrit Ruppel::Chapter25;√चल्/चर्;(I चलति/चरति);‘to move, to walk’
+Sanskrit Ruppel::Chapter25;√क्षि;(I क्षयति);‘to destroy’
+Sanskrit Ruppel::Chapter25;√क्षि;(II क्षेति; IV क्षियति);‘to dwell, live in’
+Sanskrit Ruppel::Chapter26;अग्नि;(m.)‘fire’
+Sanskrit Ruppel::Chapter26;ऋषि;(m.)seer; poet
+Sanskrit Ruppel::Chapter26;गिरि;(m.)‘mountain’
+Sanskrit Ruppel::Chapter26;दृष्टि; (f.)sight; look, glance
+Sanskrit Ruppel::Chapter26;मति; (f.)mind; thought
+Sanskrit Ruppel::Chapter26;वारि; (n.)‘water’
+Sanskrit Ruppel::Chapter26;अरि;(Adj) ‘hostile’; (m.) ‘enemy’
+Sanskrit Ruppel::Chapter26;कवि;(Adj) ‘wise’; (m.) ‘sage, seer; poet’
+Sanskrit Ruppel::Chapter26;बुद्धि; (f.)‘insight, understanding; mind’ (–› √बुध्)
+Sanskrit Ruppel::Chapter26;शत्रु; (m.)‘enemy’
+Sanskrit Ruppel::Chapter26;धेनु; (f.)‘cow’
+Sanskrit Ruppel::Chapter26;इषु; (m.)‘arrow’
+Sanskrit Ruppel::Chapter26;अश्रु; (n.)‘tear’ (as in crying)
+Sanskrit Ruppel::Chapter26;धनु; (m.)‘bow’ (i.e. the weapon)
+Sanskrit Ruppel::Chapter26;धनुस्; (n.)‘bow’ (i.e. the weapon)
+Sanskrit Ruppel::Chapter26;बहु; (Adj)‘much, many’ (–› bahu-vrīhi)
+Sanskrit Ruppel::Chapter26;वसु;(Adj) ‘good, excellent’; (n.) ‘wealth, goods’
+Sanskrit Ruppel::Chapter26;गुरु;(Adj) ‘heavy; important’; (m.) ‘teacher’
+Sanskrit Ruppel::Chapter26;साधु; (Adj)‘good’
+Sanskrit Ruppel::Chapter27;√हस्;(I हसति);‘to laugh’
+Sanskrit Ruppel::Chapter27;√स्पृश्;(VI स्पृशति);to touch’
+Sanskrit Ruppel::Chapter27;बन्धु;‘relative, kinsman’ (–› √बन्ध्)
+Sanskrit Ruppel::Chapter27;बान्धव; (m.)‘relative, kinsman’ (–› √बन्ध्)
+Sanskrit Ruppel::Chapter27;भूमि;(f.)‘the earth’
+Sanskrit Ruppel::Chapter27;मृग; (m.)‘deer’
+Sanskrit Ruppel::Chapter27;पुरा; (Indc)‘long ago, formerly’
+Sanskrit Ruppel::Chapter27;अधुना; (Indc)‘now’
+Sanskrit Ruppel::Chapter27;चिर; (Adj)‘long’
+Sanskrit Ruppel::Chapter27;अचिरात्; (Indc)‘soon’
+Sanskrit Ruppel::Chapter27;चिरम्; (Indc)‘for a long time’
+Sanskrit Ruppel::Chapter28;√पच्;(I पचति, -ते);to cook
+Sanskrit Ruppel::Chapter28;√सृ;(I सरति, -ते);to flow
+Sanskrit Ruppel::Chapter28;√ऋच/√अर्च्;(I अर्चति);to shine; to praise
+Sanskrit Ruppel::Chapter28;√धृष्;(V धृष्णोति);to be bold; to dare to (+ Inf)
+Sanskrit Ruppel::Chapter28;√स्तभ्/√स्तम्भ्;(IX स्तभ्नाति);to prop up; to fix
+Sanskrit Ruppel::Chapter28;√पृ;(IX पृणाति);to fill
+Sanskrit Ruppel::Chapter28;√यज्;(I यजति, -ते);to worship
+Sanskrit Ruppel::Chapter28;स्तम्भ;pillar, column
+Sanskrit Ruppel::Chapter29;मातृ;(f.)‘mother’
+Sanskrit Ruppel::Chapter29;पितृ; (m.)‘father’
+Sanskrit Ruppel::Chapter29;पितरौ; (m.)‘parents’ (only dual)
+Sanskrit Ruppel::Chapter29;पितरः; (m.)‘forefathers, ancestors’
+Sanskrit Ruppel::Chapter29;स्वसृ; (f.)‘sister’
+Sanskrit Ruppel::Chapter29;भ्रातृ; (m.)‘brother’
+Sanskrit Ruppel::Chapter29;कर्मन्; (n.)‘doing, action’
+Sanskrit Ruppel::Chapter29;राजन्; (m.)‘king’ (but महाराज-!)
+Sanskrit Ruppel::Chapter29;नामन्; (n.)‘name’
+Sanskrit Ruppel::Chapter29;मूर्धन्; (m.)‘(fore)head; top; peak’
+Sanskrit Ruppel::Chapter29;दुहितृ;(f.)‘daughter’
+Sanskrit Ruppel::Chapter29;भर्तृ;(m.)‘husband’
+Sanskrit Ruppel::Chapter29;नृ; (m.)‘man, hero’
+Sanskrit Ruppel::Chapter29;नेतृ; (m.)‘leader’
+Sanskrit Ruppel::Chapter29;रक्षितृ; (m.)‘protector’
+Sanskrit Ruppel::Chapter29;हस्तिन्; (m.)‘elephant’
+Sanskrit Ruppel::Chapter29;हस्त; (m.)‘hand’
+Sanskrit Ruppel::Chapter29;पक्षिन्; (m.)‘bird’
+Sanskrit Ruppel::Chapter29;पक्ष; (m.)‘wing’
+Sanskrit Ruppel::Chapter29;तेजस्विन्; (Adj)‘having splendour (तेजस्-), splendid, brilliant’
+Sanskrit Ruppel::Chapter29;आत्मन्; (m.)‘soul, self ’; ‘oneself ’ (used as reflexive pronoun)
+Sanskrit Ruppel::Chapter29;ब्रह्मन्; (n.)‘the universal soul, divine essence; religious knowledge’
+Sanskrit Ruppel::Chapter29;ब्राह्मण; (m.)‘wise man, brahmin’
+Sanskrit Ruppel::Chapter29;शशिन्; (m.)‘moon’ (lit. ‘having a rabbit’) (in a number of Asian countries, there is a rabbit in the moon, not a man)
+Sanskrit Ruppel::Chapter29;-हन्, -घ्न;(Ifc) ‘killing, one who kills’
+√क्षम्;(I क्षमते);‘to endure; forgive; be patient’
+√खाद्;(I खादति);‘to eat’
+√शंस्;(I शंसति);‘to praise; to recite, say’ (ta-Ptc शस्त-)
+√गा/गै;(IV गायते);‘to sing’ (ta-Ptc गीत-)
+प्राण; (m.)‘breath; vital breath’
+दोष; (m.)‘fault, harm’; (in religious sense:) ‘sin’
+दण्ड; (m.)‘stick’
+दण्डिन्; (m.)‘guard’ (lit. ‘having a stick’)
+स्वेद; (m.)‘sweat’
+अस्वेद; (Adj)‘without sweat’ (a characteristic of the gods)
+नरक; (m.)‘hell’
+अन्तक; (m.)‘death’
+अन्तिम; (Adj)‘final, last’
+प्रथम; (Adj)‘first’
+अथ; (Indc)‘then’
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
