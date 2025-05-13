@@ -488,52 +488,43 @@ Sanskrit Ruppel::Chapter29;ब्रह्मन्; (n.)‘the universal soul, 
 Sanskrit Ruppel::Chapter29;ब्राह्मण; (m.)‘wise man, brahmin’
 Sanskrit Ruppel::Chapter29;शशिन्; (m.)‘moon’ (lit. ‘having a rabbit’) (in a number of Asian countries, there is a rabbit in the moon, not a man)
 Sanskrit Ruppel::Chapter29;-हन्, -घ्न;(Ifc) ‘killing, one who kills’
-√क्षम्;(I क्षमते);‘to endure; forgive; be patient’
-√खाद्;(I खादति);‘to eat’
-√शंस्;(I शंसति);‘to praise; to recite, say’ (ta-Ptc शस्त-)
-√गा/गै;(IV गायते);‘to sing’ (ta-Ptc गीत-)
-प्राण; (m.)‘breath; vital breath’
-दोष; (m.)‘fault, harm’; (in religious sense:) ‘sin’
-दण्ड; (m.)‘stick’
-दण्डिन्; (m.)‘guard’ (lit. ‘having a stick’)
-स्वेद; (m.)‘sweat’
-अस्वेद; (Adj)‘without sweat’ (a characteristic of the gods)
-नरक; (m.)‘hell’
-अन्तक; (m.)‘death’
-अन्तिम; (Adj)‘final, last’
-प्रथम; (Adj)‘first’
-अथ; (Indc)‘then’
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Sanskrit Ruppel::Chapter30;√क्षम्;(I क्षमते);‘to endure; forgive; be patient’
+Sanskrit Ruppel::Chapter30;√खाद्;(I खादति);‘to eat’
+Sanskrit Ruppel::Chapter30;√शंस्;(I शंसति);‘to praise; to recite, say’ (ta-Ptc शस्त-)
+Sanskrit Ruppel::Chapter30;√गा/गै;(IV गायते);‘to sing’ (ta-Ptc गीत-)
+Sanskrit Ruppel::Chapter30;प्राण; (m.)‘breath; vital breath’
+Sanskrit Ruppel::Chapter30;दोष; (m.)‘fault, harm’; (in religious sense:) ‘sin’
+Sanskrit Ruppel::Chapter30;दण्ड; (m.)‘stick’
+Sanskrit Ruppel::Chapter30;दण्डिन्; (m.)‘guard’ (lit. ‘having a stick’)
+Sanskrit Ruppel::Chapter30;स्वेद; (m.)‘sweat’
+Sanskrit Ruppel::Chapter30;अस्वेद; (Adj)‘without sweat’ (a characteristic of the gods)
+Sanskrit Ruppel::Chapter30;नरक; (m.)‘hell’
+Sanskrit Ruppel::Chapter30;अन्तक; (m.)‘death’
+Sanskrit Ruppel::Chapter30;अन्तिम; (Adj)‘final, last’
+Sanskrit Ruppel::Chapter30;प्रथम; (Adj)‘first’
+Sanskrit Ruppel::Chapter30;अथ; (Indc)‘then’
+Sanskrit Ruppel::Chapter31;√स्न;(II स्नाति, IV स्नायति, -ते);‘to bathe’
+Sanskrit Ruppel::Chapter31;√शास्;(II शास्ति; I शासति, -ते);‘to order, instruct’
+Sanskrit Ruppel::Chapter31;√कॢप्;(I कल्पते)‘to be suitable, ready’ (‘for’: + Loc or Dat)
+Sanskrit Ruppel::Chapter31;आचार्य; (m.)‘teacher’
+Sanskrit Ruppel::Chapter31;शिष्य; (m.)‘student’
+Sanskrit Ruppel::Chapter31;कीर्ति; (f.)‘fame, good reputation’
+Sanskrit Ruppel::Chapter31;अकीर्ति; (f.)‘shame, disgrace’
+Sanskrit Ruppel::Chapter31;स्वजन; (m.)‘one’s own people’
+Sanskrit Ruppel::Chapter31;श्रेष्ठ; (Adj)‘best; excellent’
+Sanskrit Ruppel::Chapter31;शास्त्र; (n.)‘teaching, (good) advice; (esp. religious) treatise’
+Sanskrit Ruppel::Chapter31;शस्त्र; (n.)‘weapon’
+Sanskrit Ruppel::Chapter31;दूरम्; (Indc)‘far away; long ago’-
+Sanskrit Ruppel::Chapter33;√पा;(I irreg. पिबति, -ते)‘to drink’
+Sanskrit Ruppel::Chapter33;√भा;(II भाति) ‘to appear, seem; shine’ (–› प्र-भा-)
+Sanskrit Ruppel::Chapter33;√सृज्;(VI सृजति) ‘to release, let go; to create’
+Sanskrit Ruppel::Chapter33;लोचन; (n.) ‘eye’
+Sanskrit Ruppel::Chapter33;रुचिर; (Adj)‘shining, splendid’
+Sanskrit Ruppel::Chapter33;रमणीय; (Adj)‘pleasant’
+Sanskrit Ruppel::Chapter33;जल; (m.)‘water’
+Sanskrit Ruppel::Chapter33;नक्त; (n.)‘night’
+Sanskrit Ruppel::Chapter33;अहि; (m.)‘snake’
+Sanskrit Ruppel::Chapter33;आदि; (m.)‘beginning’
+Sanskrit Ruppel::Chapter33;आशु; (Adj)‘swift’
+Sanskrit Ruppel::Chapter33;पशु; (m.)‘cattle’
+Sanskrit Ruppel::Chapter33;मृत्यु; (m.)‘death’
