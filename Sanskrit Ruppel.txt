@@ -236,10 +236,10 @@ Sanskrit Ruppel::Chapter14;अति-;prefix in nominal compounds: ‘very, exce
 Sanskrit Ruppel::Chapter14;सु- (prefix);prefix in nominal compounds: ‘good; very’ (–› सुख-)
 Sanskrit Ruppel::Chapter14;दुस्-;prefix in nominal compounds: ‘bad’ (sandhi forms: दुः-, दुष्-, दुर्-; –› दु:ख-)
 Sanskrit Ruppel::Chapter14;निस्-;as a preverb: ‘out, forth’; as a prefix in nominal compounds: ‘without’, ‘awayfrom’ (sandhi forms: निष्-, निर्-, निः-)
-Sanskrit Ruppel::Chapter14;क्रोध-;(m.) – ‘anger’
-Sanskrit Ruppel::Chapter14;स्नेह -;(m.) – ‘love’
-Sanskrit Ruppel::Chapter14;अञ्जलिः;(m.) – ‘folded hands’ (gesture of respect) (Nom Sg)
-Sanskrit Ruppel::Chapter14;मतिः; (f.) – ‘mind, sense’ (Nom Sg)
+Sanskrit Ruppel::Chapter14;क्रोध-;(m.);‘anger’
+Sanskrit Ruppel::Chapter14;स्नेह -;(m.);‘love’
+Sanskrit Ruppel::Chapter14;अञ्जलिः;(m.);‘folded hands’ (gesture of respect) (Nom Sg)
+Sanskrit Ruppel::Chapter14;मतिः; (f.);‘mind, sense’ (Nom Sg)
 Sanskrit Ruppel::Chapter15;मरुत्;(m.) wind
 Sanskrit Ruppel::Chapter15;विद्युत्;lightning (f.)
 Sanskrit Ruppel::Chapter15;जगत्; (n.) world
@@ -340,7 +340,7 @@ Sanskrit Ruppel::Chapter20;√आस्;(II आस्ते);‘to sit, dwell, r
 Sanskrit Ruppel::Chapter20;√मृ;(IV म्रियते, -ति);‘to die’
 Sanskrit Ruppel::Chapter20;√मन्;(IV मन्यते);‘to think, consider’
 Sanskrit Ruppel::Chapter20;√युध्;(IV युध्यते);‘to fight’
-Sanskrit Ruppel::Chapter20;√जन;(IV जन्यते);transitive: ‘to give birth’; intransitive: ‘to be born’
+Sanskrit Ruppel::Chapter20;√जन्;(IV जन्यते);transitive: ‘to give birth’; intransitive: ‘to be born’
 Sanskrit Ruppel::Chapter20;√लक्ष्;(X लक्षयति);‘to notice’
 Sanskrit Ruppel::Chapter20;यत्न-, प्रयत्न- (m.);‘effort, attempt, exertion’
 Sanskrit Ruppel::Chapter20;महाराज- (m.);‘great king’
@@ -528,3 +528,52 @@ Sanskrit Ruppel::Chapter33;आदि; (m.)‘beginning’
 Sanskrit Ruppel::Chapter33;आशु; (Adj)‘swift’
 Sanskrit Ruppel::Chapter33;पशु; (m.)‘cattle’
 Sanskrit Ruppel::Chapter33;मृत्यु; (m.)‘death’
+Sanskrit Ruppel::Chapter35;अ-धर्म- (m.);‘lawlessness’
+Sanskrit Ruppel::Chapter35;अ-नियतम् (Indc);‘forever’
+Sanskrit Ruppel::Chapter35;अ-प्रती-कार- (Adj);‘not acting against, with-out resistance’
+Sanskrit Ruppel::Chapter35;अभि-भव- (m.);‘victory’ (–› अभि-√भू)
+Sanskrit Ruppel::Chapter35;अ-शस्त्र- (Adj);‘without weapons,unarmed’
+Sanskrit Ruppel::Chapter35;अहो बत (Indc);‘No!, Ah!’
+Sanskrit Ruppel::Chapter35;उत्सन्न- (Adj);‘destroyed’
+Sanskrit Ruppel::Chapter35;उद्यत- (Adj);‘ready, eager for’
+Sanskrit Ruppel::Chapter35;उप-स्थ- (m.);‘centre, middle’
+Sanskrit Ruppel::Chapter35;कारक- (Adj);‘causing, making’ (–› √कृ )
+Sanskrit Ruppel::Chapter35;क्रीया- (f.);‘action; religious rite, o­ffering’
+Sanskrit Ruppel::Chapter35;क्षेमतर- (Adj);‘happier; better’
+Sanskrit Ruppel::Chapter35;जन-अर्दन- (m.);‘exciter of men’ (here referring to Arjuna)
+Sanskrit Ruppel::Chapter35;जाति-धर्म- (m.);‘dharma/duty according to one’s birth; caste duties’
+Sanskrit Ruppel::Chapter35;प्र-√दुष्,√दुष् (IV (प्र-)दुष्यति);‘to be c­orrupted, spoiled’
+Sanskrit Ruppel::Chapter35;पिण्ड- (m.);‘ball of rice’ (part of ritual offerings to ancestors)
+Sanskrit Ruppel::Chapter35;मनुष्य- (m.);‘man, person’
+Sanskrit Ruppel::Chapter35;वर्ण- (m.);‘colour; caste’
+Sanskrit Ruppel::Chapter35;वार्ष्णेय- (m.);‘belonging to Vṛṣṇi (a clan)’(referring to Kṛṣṇa)
+Sanskrit Ruppel::Chapter35;वास- (m.);‘dwelling-place’ (–› √वस्)
+Sanskrit Ruppel::Chapter35;व्यवसित- (Adj);‘resolved to do’ (+ Inf)
+Sanskrit Ruppel::Chapter35;शाश्वत- (Adj);‘eternal’
+Sanskrit Ruppel::Chapter35;अनु-√श्रु (V अनुशृणोति);translate like √श्रु
+Sanskrit Ruppel::Chapter35;सं-कर- (m.);‘mixture’
+Sanskrit Ruppel::Chapter35;संख्य (n.);‘battle’
+Sanskrit Ruppel::Chapter35;उद् √सद् (I उत्सीदति);‘to put up/away; ­ destroy’
+Sanskrit Ruppel::Chapter35;वि-√सृज् (VI विसृजति);‘to let go of; throw down’
+Sanskrit Ruppel::Chapter35;श्रेयस्;‘better, superior’श्रेयस्-
+Sanskrit Ruppel::Chapter35;महीयस्;‘greater, stronger’
+Sanskrit Ruppel::Chapter35;वरीयस्;‘better; dearer’ (–› √वृ/वर-)
+Sanskrit Ruppel::Chapter35;गरीयस्;‘heavier; more valuable’
+√वृष्; (I वर्षति, -ते)‘to rain’
+√सेव्; (I सेवते, -ति)‘to attend, frequent (a place); to serve’
+√त्रा; (IV त्रायते; II त्राति)‘to rescue, protect’
+√दिश्; (VI दिशति)‘to show, point out’
+सुर; (m.)‘god’
+असुर; (m.)‘demon’
+ईश; (m.)‘lord, master’
+अप्सरस्; (f.)‘heavenly nymph’
+राक्षस; (m.)‘demon’
+बाहु; (m.)‘arm’
+स्कन्ध; (m.)‘shoulder (of a person); trunk (of a tree); branch/division (of an army)’
+ऋषभ; (m.)‘bull’
+गति; (f.)‘gait, walk; path’ (–› √गम्)
+विक्रम; (m.)‘walk, motion; way, manner’
+अनिल; (m.)‘wind’
+सत्य;(Adj) ‘true’; (n.) ‘truth’
+भूयः; (Indc)‘again’
+तस्मात्; (Indc)‘thus, therefore’
